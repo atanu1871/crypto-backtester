@@ -1,2 +1,5 @@
-# crypto-backtester
-git commit -m "Initial commit: crypto backtesting tool with mock data, strategy simulation, and performance visualization"
+📬 Contact
+
+Made with ❤️ by Atanu Biswas  
+📧 atanu1871@gmail.com  
+🐍 [github.com/atanu1871](https://github.com/atanu1871)
